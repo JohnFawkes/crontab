@@ -1,11 +1,12 @@
 # **crontab**
 ## Description
-My work : use "crond -c /data/crontabs " to change path  
+Easy to use crontabs 
+
 How to use  
-  crontab command in /data/crontabs/root   
+  use crontab command in /data/crontabs/root   
   crontab examples:  
-  Every 5 minutes to log date  
-  */5 * * * * 	date >sdcard/log.txt  
+    Every 5 minutes to log date  
+    */5 * * * * 	date >sdcard/log.txt  
 ## Changelog  
 v1.0 new  
 ## Requirements  
